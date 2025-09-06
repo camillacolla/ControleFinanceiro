@@ -26,7 +26,7 @@ Projeto simples para praticar organização de repositórios no GitHub e documen
 | Energia    | 05/09/2025 | Fixo        | 210,40     |
 | Transporte | 05/09/2025 | Mobilidade  | 60,00      |
 
-**Total:** R$ 521,05 (soma automática dos lançamentos acima)
+**Total:** R$ 521,05 
 
 🛠️ Tecnologias utilizadas
 - Markdown (para documentação)
